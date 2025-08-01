@@ -1,4 +1,4 @@
-import AQIComponent from "@/components/AQIComponent_temp";
+import AQIComponent from "@/components/AQIComponent";
 import NoLocationInfo from "@/components/NoLocationInfo";
 import { getResolvedLatLong } from "@/lib/location-info";
 
